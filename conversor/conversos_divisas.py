@@ -9,9 +9,9 @@ def main():
     menu = """ Bienvenido al conversor de divisas extranjeras a pesos uruguayos, 
     donde usted podrá ccalcular su salario en las monedas de la región. 
     Por favor, ingrese las siguientes opciones: 
-    1 - UYU a USD
-    2 - UYU a ARS
-    3 - UYU a RLB
+    1 - Pesos UYU a US dollar
+    2 - Pesos UYU a pesos ARG
+    3 - Pesos UYU a real BRA
     ________________________________________________ 
     """
     opcion = input(menu)
