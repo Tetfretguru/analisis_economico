@@ -12,7 +12,7 @@ def main():
     1 - UYU a USD
     2 - UYU a ARS
     3 - UYU a RLB
-     
+    ________________________________________________ 
     """
     opcion = input(menu)
     if opcion == '1':
